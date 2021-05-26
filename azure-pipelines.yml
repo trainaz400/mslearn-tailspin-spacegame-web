@@ -1,7 +1,7 @@
 trigger:
 - '*'
 
-pool: 'linux'
+pool: 'linux2'
 
 variables:
   buildConfiguration: 'Release'

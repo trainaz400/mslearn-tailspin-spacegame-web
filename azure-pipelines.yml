@@ -1,7 +1,7 @@
 trigger:
 - '*'
 
-pool: 'linux3'
+pool: 'linuxagentpool'
 
 variables:
   buildConfiguration: 'Release'
